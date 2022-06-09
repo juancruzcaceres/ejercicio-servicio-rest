@@ -1,0 +1,6 @@
+C:\Users\juan\Desktop\Ejercicio Servicio REST\Logica\bin\Debug\Logica.dll
+C:\Users\juan\Desktop\Ejercicio Servicio REST\Logica\bin\Debug\Logica.pdb
+C:\Users\juan\Desktop\Ejercicio Servicio REST\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\juan\Desktop\Ejercicio Servicio REST\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\juan\Desktop\Ejercicio Servicio REST\Logica\obj\Debug\Logica.dll
+C:\Users\juan\Desktop\Ejercicio Servicio REST\Logica\obj\Debug\Logica.pdb
